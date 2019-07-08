@@ -1,0 +1,15 @@
+{
+  "name": "Project1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/normiaaa/cypresstest.git",
+  "author": "normiaaa <normiaaa@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "cypress:open": "./node_modules/.bin/cypress open"
+  },
+  "dependencies": {
+    "cypress": "^3.3.1"
+  }
+}
