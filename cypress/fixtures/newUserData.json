@@ -1,0 +1,29 @@
+{
+  "USER_DATA": {
+    "id_gender": 1,
+    "customer_firstname": "Tester",
+    "customer_lastname": "test",
+    "passwd": "salam123",
+    "days": 6,
+    "months": 4,
+    "years": 1992,
+    "firstname": "B",
+    "lastname": "B",
+    "company": "D",
+    "address1": "D",
+    "address2": "",
+    "city": "D",
+    "id_state": 5,
+    "postcode": "44000",
+    "id_country": 21,
+    "other": "",
+    "phone": "",
+    "phone_mobile": "0000000",
+    "alias": "My address",
+    "dni": "",
+    "email_create": 1,
+    "is_new_customer": 1,
+    "back": "my-account",
+    "submitAccount": ""
+  }
+}
